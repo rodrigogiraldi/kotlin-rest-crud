@@ -1,0 +1,4 @@
+spring:
+  profiles:
+#    active: insecure
+    active: secure
